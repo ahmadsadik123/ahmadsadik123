@@ -1,6 +1,14 @@
-### Hi there 👋
+## Hi, I'm Ahmad 👋
 
-## Hello
+- ⚙️ Aspiring Data Engineer
+- 🏫 Data Science and Analytics MSc from Brunel University
+- 📖 Data Engineering trainee at [Xander Talent](https://www.xandertalent.com/)
+- ⚽ Big football fan
+
+### Contact Me
+
+**https://uk.linkedin.com/in/ahmadsadik**
+**ahmad-sadik1@hotmail.com**
 
 <!--
 **ahmadsadik123/ahmadsadik123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
