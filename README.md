@@ -7,7 +7,7 @@
 
 ### Contact Me
 
-- LinkedIn <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" width="20" /></a>
+- LinkedIn <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="15" width="15" /></a>
 **https://uk.linkedin.com/in/ahmadsadik**
 - Email 📧
 **ahmad-sadik1@hotmail.com**
