@@ -5,6 +5,14 @@
 - 📖 Data Engineering trainee at [Xander Talent](https://www.xandertalent.com/)
 - ⚽ Big football fan
 
+### Projects
+
+| Name                         | Description                     | Tech/tools                                                        |
+| -----------------------------| ------------------------        | ----------------------
+|                              |                                 |                                                                   |
+
+### Technologies used
+
 ### Contact Me
 
 - LinkedIn <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="17" width="17" /></a>
