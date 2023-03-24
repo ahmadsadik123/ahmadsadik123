@@ -16,7 +16,7 @@ Now, I'm looking to take my career to the next level by becoming a data engineer
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
-| [Property data ETL][1]           | Scraped data which was then transformed and loaded to an AWS S3 bucket   | Python, Selenium, Sklearn  |
+| [Property data ETL][1]           | Scraped data which was then transformed and loaded to AWS   | Python, Selenium, Sklearn  |
 | Facial Emotion Recognition | Trained CNN models to detect emotion from facial expressions | Python, Tensorflow |
 | Stroke predictor | Trained ML models to predict the likelihood of a stroke | RStudio, PySpark, ggplot
 
