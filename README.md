@@ -18,7 +18,7 @@ Now, I'm looking to take my career to the next level by becoming a data engineer
 | -----------------------------| ------------------------        | ----------------------
 | [Property data ETL][1]           | Scraped data which was then transformed and loaded to AWS   | Python, Selenium, Sklearn  |
 | [Facial Emotion Recognition][2] | Trained CNN models to detect emotion from facial expressions | Python, Tensorflow |
-| Stroke predictor | Trained ML models to predict the likelihood of a stroke | RStudio, PySpark, ggplot
+| [Stroke predictor][3] | Trained ML models to predict the likelihood of a stroke | RStudio, PySpark, ggplot
 
 
 
@@ -37,6 +37,7 @@ Now, I'm looking to take my career to the next level by becoming a data engineer
 
 [1]:https://github.com/ahmadsadik123/PropertyProject
 [2]:https://github.com/ahmadsadik123/Image-classification-model
+[3]:https://github.com/ahmadsadik123/stroke_data
 
 ![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png)
 
