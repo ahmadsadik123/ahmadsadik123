@@ -16,7 +16,7 @@ Now, I'm looking to take my career to the next level by becoming a data engineer
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
-| Property data ETL            | Scraped data which was then transformed and loaded to an AWS S3 bucket   | Python, Selenium, Sklearn  |
+| [Property data ETL][1]           | Scraped data which was then transformed and loaded to an AWS S3 bucket   | Python, Selenium, Sklearn  |
 | Facial Emotion Recognition | Trained CNN models to detect emotion from facial expressions | Python, Tensorflow |
 | Stroke predictor | Trained ML models to predict the likelihood of a stroke | RStudio, PySpark, ggplot
 
@@ -32,6 +32,12 @@ Now, I'm looking to take my career to the next level by becoming a data engineer
 **https://uk.linkedin.com/in/ahmadsadik**
 - Email 📧
 **ahmad-sadik1@hotmail.com**
+
+<br />
+
+[1]:https://github.com/ahmadsadik123/PropertyProject
+
+![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png)
 
 <!--
 **ahmadsadik123/ahmadsadik123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
