@@ -38,7 +38,7 @@ Now, I'm looking to take my career to the next level by becoming a data engineer
 [2]:https://github.com/ahmadsadik123/Image-classification-model
 [3]:https://github.com/ahmadsadik123/stroke_data
 
-![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png)
+
 
 <!--
 **ahmadsadik123/ahmadsadik123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
