@@ -2,12 +2,11 @@
 
 - ⚙️ Aspiring Data Engineer
 - 🏫 Data Science and Analytics MSc from Brunel University
-- 📖 Data Engineering trainee at [Xander Talent](https://www.xandertalent.com/)
 - ⚽ Big football fan
 
 After completing my bachelor's degree in Accounting and Finance with Mandarin and working in the field for about three years, I realized that I needed a change. While I enjoyed the work, I found that it wasn't as mentally stimulating or challenging as I wanted it to be.
 
-That's when I decided to pursue a master's degree in Data Science. This was an exciting new field for me, and I was eager to learn more about how data could be used to solve complex problems and drive business decisions. During my studies, I gained hands-on experience with a variety of tools and techniques for data analysis, machine learning, and data visualization.
+That's when I decided to pursue a master's degree in Data Science and Analytics. This was an exciting new field for me, and I was eager to learn more about how data could be used to solve complex problems and drive business decisions. During my studies, I gained hands-on experience with a variety of tools and techniques for data analysis, machine learning, and data visualization.
 
 Now, I'm looking to take my career to the next level by becoming a data engineer. I'm excited about the prospect of working with big data systems and designing solutions that can help organizations make better use of their data. I believe that my combination of accounting expertise and data science skills gives me a unique perspective on this field, and I'm eager to apply my knowledge to new challenges and opportunities.
 
